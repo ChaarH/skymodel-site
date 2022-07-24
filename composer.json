@@ -1,0 +1,14 @@
+{
+    "name": "carlos-aires/sky-model",
+    "description": "sky model",
+    "require-dev": {
+        "phpmailer/phpmailer": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "Carlos AIres",
+            "email": "carlos.wecode@gmail.com"
+        }
+    ],
+    "require": {}
+}
