@@ -11,15 +11,6 @@ $scouters = array(
         )
     ),
     array(
-        "name" => "Larissa Soares dos Santos",
-        "instagram" => array(
-            "@Larissa_agente_._"
-        ),
-        "phone" => array(
-            "(92) 9 9395-7474"
-        )
-    ),
-    array(
         "name" => "Maria Clara dos Santos Soares",
         "instagram" => array(
             "@amanda.ribeiro"
@@ -1833,30 +1824,12 @@ $scouters = array(
         )
     ),
     array(
-        "name" => "Paulo Rafael de Oliveira dos Santos",
-        "instagram" => array(
-            "@paulo_rafaels2"
-        ),
-        "phone" => array(
-            "(11) 9 4562-1357"
-        )
-    ),
-    array(
         "name" => "Kellyn Caetano da Silveira",
         "instagram" => array(
             "@Kellyncaetanosky"
         ),
         "phone" => array(
             "(12) 9 9658-0859"
-        )
-    ),
-    array(
-        "name" => "Sarah Domenique de Almeida dos Santos",
-        "instagram" => array(
-            "@Sarah_scouter"
-        ),
-        "phone" => array(
-            "(11) 9 5606-9557"
         )
     ),
     array(
@@ -3248,33 +3221,6 @@ $scouters = array(
         ),
     ),
     array(
-        "name" => "Aldomil da Silva Lima",
-        "instagram" => array(
-            "@aldomil21"
-        ),
-        "phone" => array(
-            "(94) 9 8451-5809"
-        ),
-    ),
-    array(
-        "name" => "Paula Almeida Maciel",
-        "instagram" => array(
-            "@paulamarciel_"
-        ),
-        "phone" => array(
-            "(94) 9 9114-2023"
-        ),
-    ),
-    array(
-        "name" => "Ramon Ferreira Dias",
-        "instagram" => array(
-            "@_ramondias21"
-        ),
-        "phone" => array(
-            "(61) 9 9644-5461"
-        ),
-    ),
-    array(
         "name" => "Yasmin Ketelin Carmo dos Santos",
         "instagram" => array(
             "@1_dama"
@@ -3365,30 +3311,12 @@ $scouters = array(
         ),
     ),
     array(
-        "name" => "Giovana Oliveira Alves",
-        "instagram" => array(
-            "@giiovana.oliveira"
-        ),
-        "phone" => array(
-            "(15) 9 9801-3914"
-        ),
-    ),
-    array(
         "name" => "Douglas Vinícius dos Santos Sena",
         "instagram" => array(
             "@douglasvinicius153"
         ),
         "phone" => array(
             "(32) 9 9957-2996"
-        ),
-    ),
-    array(
-        "name" => "Miriele Bernardo Bernardo",
-        "instagram" => array(
-            "@mirielejaquesbernardo"
-        ),
-        "phone" => array(
-            "(31) 9 7156-0930"
         ),
     ),
     array(
@@ -3425,15 +3353,6 @@ $scouters = array(
         ),
         "phone" => array(
             "(22) 9 9990-97326"
-        ),
-    ),
-    array(
-        "name" => "Elmon Augusto Tescaro Neto",
-        "instagram" => array(
-            "@elmon_tescaro"
-        ),
-        "phone" => array(
-            "(11) 9 6072-2629"
         ),
     ),
     array(
@@ -3744,6 +3663,132 @@ $scouters = array(
             "(11) 9 7849-5251"
         ),
     ),
+    array(
+        "name" => "Higor Pessoa",
+        "instagram" => array(
+            "@higorpessoa_"
+        ),
+        "phone" => array(
+            "(21) 9 9881-2896"
+        ),
+    ),
+    array(
+        "name" => "Guilherme Stefani Pereira",
+        "instagram" => array(
+            "@scouterguilhermestefanipereira"
+        ),
+        "phone" => array(
+            "(43) 9 8826-9202"
+        ),
+    ),
+    array(
+        "name" => "Marta da Silva Lima Soares",
+        "instagram" => array(
+            "@mart.a4498"
+        ),
+        "phone" => array(
+            "(19) 9 8943-9200"
+        ),
+    ),
+    array(
+        "name" => "Synde Santos",
+        "instagram" => array(
+            "@Synde_agente"
+        ),
+        "phone" => array(
+            "(32) 9 9861-6264"
+        ),
+    ),
+    array(
+        "name" => "Samira Boeno Said",
+        "instagram" => array(
+            "@Sasah_doredo"
+        ),
+        "phone" => array(
+            "(11) 9 4794-2111"
+        ),
+    ),
+    array(
+        "name" => "Andressa Miranda da Costa",
+        "instagram" => array(
+            "@dressamiranda71"
+        ),
+        "phone" => array(
+            "(62) 9 8298-5137"
+        ),
+    ),
+    array(
+        "name" => "Antônia Adriana Valentim de Sousa",
+        "instagram" => array(
+            "@Adriana_scouter3"
+        ),
+        "phone" => array(
+            "(11) 9 7072-7106"
+        ),
+    ),
+    array(
+        "name" => "Beatriz Ribeiro Martins",
+        "instagram" => array(
+            "@Bia_de_konoha"
+        ),
+        "phone" => array(
+            "(11) 9 8870-6134"
+        ),
+    ),
+    array(
+        "name" => "Gisele da Silva Alexandre",
+        "instagram" => array(
+            "@Gisele.scouter_"
+        ),
+        "phone" => array(
+            "(83) 9 8109-1978"
+        ),
+    ),
+    array(
+        "name" => "Emily Geovanna",
+        "instagram" => array(
+            "@emilygeovannaa"
+        ),
+        "phone" => array(
+            "(67) 9 9304-7024"
+        ),
+    ),
+    array(
+        "name" => "Kawanny Gonçalves Soares",
+        "instagram" => array(
+            "@kawanny.gs01"
+        ),
+        "phone" => array(
+            "(89) 9 9994-6568"
+        ),
+    ),
+    array(
+        "name" => "Gabriela Parise Candido",
+        "instagram" => array(
+            "@Gabriela.candidoo"
+        ),
+        "phone" => array(
+            "(48) 9 9991-5191"
+        ),
+    ),
+    array(
+        "name" => "Daniela Luiza de Amorim",
+        "instagram" => array(
+            "@Daniiamorim25"
+        ),
+        "phone" => array(
+            "(31) 9 9078-5141"
+        ),
+    ),
+    array(
+        "name" => "Bruna Sousa da Silva ",
+        "instagram" => array(
+            "@_hmbruna"
+        ),
+        "phone" => array(
+            "(11) 9 9001-4892"
+        ),
+    ),
 );
 
 $total_scouters = count($scouters);
@@ -3751,14 +3796,14 @@ $total_scouters = count($scouters);
 function organizeScouters($data)
 {
 
-    $alphas = range("A","Z");
+    $alphas = range("A", "Z");
     $array_order_alphabtically = array();
-    
+
     foreach ($data as $scouter) {
         $first_letter = strtoupper($scouter["name"][0]);
-        
-        $alpha_position = array_search($first_letter,$alphas);
-        
+
+        $alpha_position = array_search($first_letter, $alphas);
+
         $array_order_alphabtically[$alphas[$alpha_position]][] = $scouter;
         asort($array_order_alphabtically[$alphas[$alpha_position]]);
     }
@@ -3766,7 +3811,6 @@ function organizeScouters($data)
     ksort($array_order_alphabtically);
 
     return $array_order_alphabtically;
-
 }
 
 function totalContacts($total_scouters)
@@ -3779,11 +3823,11 @@ function totalContacts($total_scouters)
 
 function totalDaysBetween()
 {
-  $now = time();
-  $your_date = strtotime("2022-01-01");
-  $datediff = $now - $your_date;
+    $now = time();
+    $your_date = strtotime("2022-01-01");
+    $datediff = $now - $your_date;
 
-  return round($datediff / (60 * 60 * 24));
+    return round($datediff / (60 * 60 * 24));
 }
 
 $total_contacts = totalContacts($total_scouters);
