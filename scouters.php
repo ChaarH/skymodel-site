@@ -201,15 +201,6 @@ $scouters = array(
         )
     ),
     array(
-        "name" => "Francisco Lopes Ferreira",
-        "instagram" => array(
-            "@francisco_scouter",
-        ),
-        "phone" => array(
-            "(94) 9 9910-79318",
-        )
-    ),
-    array(
         "name" => "Whavolly Paslandim de Assis",
         "instagram" => array(
             "@Onlly_scouter",
@@ -3772,21 +3763,21 @@ $scouters = array(
         ),
     ),
     array(
-        "name" => "Daniela Luiza de Amorim",
-        "instagram" => array(
-            "@Daniiamorim25"
-        ),
-        "phone" => array(
-            "(31) 9 9078-5141"
-        ),
-    ),
-    array(
-        "name" => "Bruna Sousa da Silva ",
+        "name" => "Bruna Sousa da Silva",
         "instagram" => array(
             "@_hmbruna"
         ),
         "phone" => array(
             "(11) 9 9001-4892"
+        ),
+    ),
+    array(
+        "name" => "Julia Herta Rodrigues Hahne",
+        "instagram" => array(
+            "@juliaherta__"
+        ),
+        "phone" => array(
+            "(35) 9 9188-5801"
         ),
     ),
 );
