@@ -3780,6 +3780,15 @@ $scouters = array(
             "(35) 9 9188-5801"
         ),
     ),
+    array(
+        "name" => "Brisa Carolina de Oliveira Morais",
+        "instagram" => array(
+            "@brisamoraes"
+        ),
+        "phone" => array(
+            "(12) 9 8149-0306"
+        ),
+    ),
 );
 
 $total_scouters = count($scouters);
