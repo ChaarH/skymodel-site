@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
+<head>
 
     <meta charset="utf-8">
-    <link rel="icon" type="image/png" sizes="57x57"  href="./assets/images/icon.png">
+    <link rel="icon" type="image/png" sizes="57x57" href="./assets/images/icon.png">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -22,10 +22,10 @@
 
     <link rel="stylesheet" href="assets/css/template.css">
 
-    </head>
-    
-    <body>
-    
+</head>
+
+<body>
+
     <!-- ***** Preloader Start ***** -->
     <div id="preloader">
         <div class="jumper">
@@ -33,10 +33,10 @@
             <div></div>
             <div></div>
         </div>
-    </div>  
+    </div>
     <!-- ***** Preloader End ***** -->
-    
-    <?php require 'head.html'; ?>    
+
+    <?php require 'head.html'; ?>
 
     <!-- ***** Welcome Area Start ***** -->
     <div class="welcome-area" id="welcome">
@@ -66,7 +66,7 @@
                         <!-- ***** Features Small Item Start ***** -->
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                             <div class="features-small-item">
-                            <div class="d-flex justify-content-center">
+                                <div class="d-flex justify-content-center">
                                     <i><img src="assets/images/icons/chess.png" alt=""></i>
                                 </div>
                                 <h5 class="features-title">Estratégias Modernas</h5>
@@ -90,7 +90,7 @@
                         <!-- ***** Features Small Item Start ***** -->
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.6s">
                             <div class="features-small-item">
-                            <div class="d-flex justify-content-center">
+                                <div class="d-flex justify-content-center">
                                     <i><img src="assets/images/icons/visibilidade.png" alt=""></i>
                                 </div>
                                 <h5 class="features-title">Visibilidade</h5>
@@ -177,7 +177,7 @@
                     <a href="./assets/documents/sky_model_apresentacao.pdf" download>aqui</a>
                 </h3>
             </div>
-        </div>                    
+        </div>
     </section>
 
     <!-- ***** Features Big Item End ***** -->
@@ -248,9 +248,9 @@
 
     <!-- ***** Testimonials Start ***** -->
     <!-- <section class="section" id="testimonials"> -->
-        <!-- <div class="container"> -->
-            <!-- ***** Section Title Start ***** -->
-            <!-- <div class="row">
+    <!-- <div class="container"> -->
+    <!-- ***** Section Title Start ***** -->
+    <!-- <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
                         <h2 class="section-title">O que dizem sobre nós?</h2>
@@ -262,11 +262,11 @@
                     </div>
                 </div>
             </div> -->
-            <!-- ***** Section Title End ***** -->
+    <!-- ***** Section Title End ***** -->
 
-            <!-- <div class="row"> -->
-                <!-- ***** Testimonials Item Start ***** -->
-                <!-- <div class="col-lg-4 col-md-6 col-sm-12">
+    <!-- <div class="row"> -->
+    <!-- ***** Testimonials Item Start ***** -->
+    <!-- <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
@@ -278,10 +278,10 @@
                         </div>
                     </div>
                 </div> -->
-                <!-- ***** Testimonials Item End ***** -->
-                
-                <!-- ***** Testimonials Item Start ***** -->
-                <!-- <div class="col-lg-4 col-md-6 col-sm-12">
+    <!-- ***** Testimonials Item End ***** -->
+
+    <!-- ***** Testimonials Item Start ***** -->
+    <!-- <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
@@ -293,10 +293,10 @@
                         </div>
                     </div>
                 </div> -->
-                <!-- ***** Testimonials Item End ***** -->
-                
-                <!-- ***** Testimonials Item Start ***** -->
-                <!-- <div class="col-lg-4 col-md-6 col-sm-12">
+    <!-- ***** Testimonials Item End ***** -->
+
+    <!-- ***** Testimonials Item Start ***** -->
+    <!-- <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
@@ -308,9 +308,9 @@
                         </div>
                     </div>
                 </div> -->
-                <!-- ***** Testimonials Item End ***** -->
-            <!-- </div> -->
-        <!-- </div> -->
+    <!-- ***** Testimonials Item End ***** -->
+    <!-- </div> -->
+    <!-- </div> -->
     <!-- </section> -->
     <!-- ***** Testimonials End ***** -->
 
@@ -413,7 +413,7 @@
                     </div>
                 </div>
                 <!-- ***** Team Item End ***** -->
-            
+
                 <!-- ***** Team Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
@@ -464,7 +464,7 @@
                                 </div>
                             </div>
                             <div class="d-flex justify-content-center">
-                                <p><a href="https://instagram.com/peraza.nathalia" target="_blank">@peraza.nathalia</a></p>
+                                <p><a href="https://instagram.com/nathalia_.peraza" target="_blank">@nathalia_.peraza</a></p>
                             </div>
                             <div class="team-info">
                                 <h3 class="user-name">Nathália Peraza</h3>
@@ -541,11 +541,11 @@
 
     <?php
 
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
+    ini_set('display_errors', 1);
+    ini_set('display_startup_errors', 1);
+    error_reporting(E_ALL);
 
-?>
+    ?>
 
     <?php require 'scouters.php'; ?>
 
@@ -566,9 +566,9 @@ error_reporting(E_ALL);
                 </div>
             </div>
             <!-- ***** Section Title End ***** -->
-            
-             <!-- ***** Section Title Start ***** -->
-             <?php foreach($scouters_result as $scouter => $value): ?>
+
+            <!-- ***** Section Title Start ***** -->
+            <?php foreach ($scouters_result as $scouter => $value) : ?>
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="center-heading">
@@ -579,22 +579,22 @@ error_reporting(E_ALL);
 
                 <div class="row">
                     <!-- ***** Team Item Start ***** -->
-                    <?php foreach ($value as $info_scouter): ?>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <div class="team-item">
-                            <div class="team-content scouters" style="min-height: 110px">
-                                <p><strong><?php echo $info_scouter["name"]; ?></strong></p>
-                                <?php foreach ($info_scouter["instagram"] as $insta): ?>
-                                    <p>
-                                        <a href="https://instagram.com/<?php echo str_replace("@","",$insta); ?>" target="_blank"><?php echo $insta; ?></a>
-                                    </p>
-                                <?php endforeach; ?>
-                                <?php foreach ($info_scouter["phone"] as $phone): ?>
-                                    <p><?php echo substr_replace($phone, '****', -4); ?></p>
-                                <?php endforeach; ?>
+                    <?php foreach ($value as $info_scouter) : ?>
+                        <div class="col-lg-4 col-md-6 col-sm-12">
+                            <div class="team-item">
+                                <div class="team-content scouters" style="min-height: 110px">
+                                    <p><strong><?php echo $info_scouter["name"]; ?></strong></p>
+                                    <?php foreach ($info_scouter["instagram"] as $insta) : ?>
+                                        <p>
+                                            <a href="https://instagram.com/<?php echo str_replace("@", "", $insta); ?>" target="_blank"><?php echo $insta; ?></a>
+                                        </p>
+                                    <?php endforeach; ?>
+                                    <?php foreach ($info_scouter["phone"] as $phone) : ?>
+                                        <p><?php echo substr_replace($phone, '****', -4); ?></p>
+                                    <?php endforeach; ?>
+                                </div>
                             </div>
                         </div>
-                    </div>
                     <?php endforeach; ?>
                     <!-- ***** Team Item End ***** -->
                 </div>
@@ -605,9 +605,9 @@ error_reporting(E_ALL);
 
     <!-- ***** Pricing Plans Start ***** -->
     <!-- <section class="section colored" id="pricing-plans"> -->
-        <!-- <div class="container"> -->
-            <!-- ***** Section Title Start ***** -->
-            <!-- <div class="row">
+    <!-- <div class="container"> -->
+    <!-- ***** Section Title Start ***** -->
+    <!-- <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
                         <h2 class="section-title">Pricing Plans</h2>
@@ -619,11 +619,11 @@ error_reporting(E_ALL);
                     </div>
                 </div>
             </div> -->
-            <!-- ***** Section Title End ***** -->
+    <!-- ***** Section Title End ***** -->
 
-            <!-- <div class="row"> -->
-                <!-- ***** Pricing Item Start ***** -->
-                <!-- <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+    <!-- <div class="row"> -->
+    <!-- ***** Pricing Item Start ***** -->
+    <!-- <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                     <div class="pricing-item">
                         <div class="pricing-header">
                             <h3 class="pricing-title">Starter</h3>
@@ -648,10 +648,10 @@ error_reporting(E_ALL);
                         </div>
                     </div>
                 </div> -->
-                <!-- ***** Pricing Item End ***** -->
+    <!-- ***** Pricing Item End ***** -->
 
-                <!-- ***** Pricing Item Start ***** -->
-                <!-- <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+    <!-- ***** Pricing Item Start ***** -->
+    <!-- <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="pricing-item active">
                         <div class="pricing-header">
                             <h3 class="pricing-title">Premium</h3>
@@ -676,10 +676,10 @@ error_reporting(E_ALL);
                         </div>
                     </div>
                 </div> -->
-                <!-- ***** Pricing Item End ***** -->
+    <!-- ***** Pricing Item End ***** -->
 
-                <!-- ***** Pricing Item Start ***** -->
-                <!-- <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.6s">
+    <!-- ***** Pricing Item Start ***** -->
+    <!-- <div class="col-lg-4 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.6s">
                     <div class="pricing-item">
                         <div class="pricing-header">
                             <h3 class="pricing-title">Advanced</h3>
@@ -704,9 +704,9 @@ error_reporting(E_ALL);
                         </div>
                     </div>
                 </div> -->
-                <!-- ***** Pricing Item End ***** -->
-            <!-- </div> -->
-        <!-- </div> -->
+    <!-- ***** Pricing Item End ***** -->
+    <!-- </div> -->
+    <!-- </div> -->
     <!-- </section> -->
     <!-- ***** Pricing Plans End ***** -->
 
@@ -743,13 +743,13 @@ error_reporting(E_ALL);
             </div>
         </div>
     </section>
-    <!-- ***** Counter Parallax End ***** -->   
+    <!-- ***** Counter Parallax End ***** -->
 
     <!-- ***** Blog Start ***** -->
     <!-- <section class="section" id="blog"> -->
-        <!-- <div class="container"> -->
-            <!-- ***** Section Title Start ***** -->
-            <!-- <div class="row">
+    <!-- <div class="container"> -->
+    <!-- ***** Section Title Start ***** -->
+    <!-- <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
                         <h2 class="section-title">Blog Entries</h2>
@@ -761,9 +761,9 @@ error_reporting(E_ALL);
                     </div>
                 </div>
             </div> -->
-            <!-- ***** Section Title End ***** -->
+    <!-- ***** Section Title End ***** -->
 
-            <!-- <div class="row">
+    <!-- <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="blog-post-thumb">
                         <div class="img">
@@ -826,37 +826,37 @@ error_reporting(E_ALL);
                         <h2 class="section-title">Contas</h2>
                     </div>
                     <div class="offset-lg-3 col-lg-6">
+                        <div class="center-text">
+                            <p>Abaixo, informações de nossa conta para você se certificar de estar depositando corretamente</p>
+                        </div>
+                    </div>
                     <div class="center-text">
-                        <p>Abaixo, informações de nossa conta para você se certificar de estar depositando corretamente</p>
-                    </div>
-                </div>
-                <div class="center-text">
-                    <div class="row d-flex justify-content-center">
-                        <!-- ***** Team Item Start ***** -->
-                        <div class="col-md-6 col-12">
-                            <div class="team-item col-12">
-                                <div class="team-content">
-                                    <div class="text-center m-3">
-                                        <h3>Banco Itáu</h3>
+                        <div class="row d-flex justify-content-center">
+                            <!-- ***** Team Item Start ***** -->
+                            <div class="col-md-6 col-12">
+                                <div class="team-item col-12">
+                                    <div class="team-content">
+                                        <div class="text-center m-3">
+                                            <h3>Banco Itáu</h3>
+                                        </div>
+                                        <p><strong>Nome: </strong>Dionathan Braga</p>
+                                        <p><strong>Agência: </strong>0323</p>
+                                        <p><strong>Conta: </strong>99825-2 <strong>Corrente PJ</strong></p>
+                                        <p><strong>CPF: </strong>045.450.930-86</p>
+                                        <p><strong>Pix ( CNPJ ): </strong>32.526.837/0001-65</p>
+                                        <br>
+                                        <p>Recebermos pagamentos parcelado via <strong>Mercado Pago</strong> em nome de Dionathan Garcia Braga.</p>
                                     </div>
-                                    <p><strong>Nome: </strong>Dionathan Braga</p>
-                                    <p><strong>Agência: </strong>0323</p>
-                                    <p><strong>Conta: </strong>99825-2 <strong>Corrente PJ</strong></p>
-                                    <p><strong>CPF: </strong>045.450.930-86</p>
-                                    <p><strong>Pix ( CNPJ ): </strong>32.526.837/0001-65</p>
-                                    <br>
-                                    <p>Recebermos pagamentos parcelado via <strong>Mercado Pago</strong> em nome de Dionathan Garcia Braga.</p>
                                 </div>
+                                <!-- ***** Team Item End ***** -->
                             </div>
-                        <!-- ***** Team Item End ***** -->
+                        </div>
+
+                        <h5>⚠️ <strong>Obs:</strong> A empresa SkyModel MGMT, não se responsabiliza por pagamentos realizados fora de uma das contas informadas acima.</h5>
                     </div>
+
+
                 </div>
-                
-                <h5>⚠️ <strong>Obs:</strong> A empresa SkyModel MGMT, não se responsabiliza por pagamentos realizados fora de uma das contas informadas acima.</h5>
-            </div>
-
-
-        </div>
     </section>
 
     <!-- ***** Contact Us Start ***** -->
@@ -882,28 +882,28 @@ error_reporting(E_ALL);
                 <div class="col-lg-8 col-md-6 col-sm-12">
                     <div class="contact-form">
                         <form id="contact" action="" method="POST">
-                          <div class="row">
-                            <div class="col-lg-6 col-md-12 col-sm-12">
-                              <fieldset>
-                                <input name="name" type="text" class="form-control" id="name" placeholder="Nome completo" required="">
-                              </fieldset>
+                            <div class="row">
+                                <div class="col-lg-6 col-md-12 col-sm-12">
+                                    <fieldset>
+                                        <input name="name" type="text" class="form-control" id="name" placeholder="Nome completo" required="">
+                                    </fieldset>
+                                </div>
+                                <div class="col-lg-6 col-md-12 col-sm-12">
+                                    <fieldset>
+                                        <input name="email" type="email" class="form-control" id="email" placeholder="E-mail" required="">
+                                    </fieldset>
+                                </div>
+                                <div class="col-lg-12">
+                                    <fieldset>
+                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Sua mensagem" required=""></textarea>
+                                    </fieldset>
+                                </div>
+                                <div class="col-lg-12">
+                                    <fieldset>
+                                        <button type="submit" id="form-submit" class="main-button btn-sm-block">Enviar mensagem</button>
+                                    </fieldset>
+                                </div>
                             </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12">
-                              <fieldset>
-                                <input name="email" type="email" class="form-control" id="email" placeholder="E-mail" required="">
-                              </fieldset>
-                            </div>
-                            <div class="col-lg-12">
-                              <fieldset>
-                                <textarea name="message" rows="6" class="form-control" id="message" placeholder="Sua mensagem" required=""></textarea>
-                              </fieldset>
-                            </div>
-                            <div class="col-lg-12">
-                              <fieldset>
-                                <button type="submit" id="form-submit" class="main-button btn-sm-block">Enviar mensagem</button>
-                              </fieldset>
-                            </div>
-                          </div>
                         </form>
                     </div>
                 </div>
@@ -912,7 +912,7 @@ error_reporting(E_ALL);
         </div>
     </section>
     <!-- ***** Contact Us End ***** -->
-    
+
     <!-- ***** Footer Start ***** -->
     <footer>
         <div class="container">
@@ -931,13 +931,15 @@ error_reporting(E_ALL);
                 <div class="col-lg-12">
                     <p class="copyright">
                         Copyright &copy; <?php echo date('Y'); ?>
-                        <a href="https://instagram.com/wecode.web" target="_blank" class="text-white">< weCode /></a>
+                        <a href="https://instagram.com/wecode.web" target="_blank" class="text-white">
+                            < weCode />
+                        </a>
                     </p>
                 </div>
             </div>
         </div>
     </footer>
-    
+
     <!-- jQuery -->
     <script src="assets/js/jquery-2.1.0.min.js"></script>
 
@@ -949,11 +951,12 @@ error_reporting(E_ALL);
     <script src="assets/js/scrollreveal.min.js"></script>
     <script src="assets/js/waypoints.min.js"></script>
     <script src="assets/js/jquery.counterup.min.js"></script>
-    <script src="assets/js/imgfix.min.js"></script> 
-    
+    <script src="assets/js/imgfix.min.js"></script>
+
     <!-- Global Init -->
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/email.js"></script>
 
-  </body>
+</body>
+
 </html>
