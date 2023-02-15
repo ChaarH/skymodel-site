@@ -56,15 +56,6 @@ $scouters = array(
         )
     ),
     array(
-        "name" => "Jany Ribeiro",
-        "instagram" => array(
-            "@janyribeiroscouter"
-        ),
-        "phone" => array(
-            "(71) 9 8929-0765",
-        )
-    ),
-    array(
         "name" => "Ana Paula Querino dos Santos",
         "instagram" => array(
             "@Anaapaula628"
@@ -98,15 +89,6 @@ $scouters = array(
         ),
         "phone" => array(
             "(31) 9 8363-6171",
-        )
-    ),
-    array(
-        "name" => "Paloma Lopes de Souza",
-        "instagram" => array(
-            "@palomalopes.s"
-        ),
-        "phone" => array(
-            "(35) 9 9200 1712",
         )
     ),
     array(
@@ -161,16 +143,6 @@ $scouters = array(
         ),
         "phone" => array(
             "(53) 9 8475-3370",
-        )
-    ),
-    array(
-        "name" => "Ericka Pereira Batista",
-        "instagram" => array(
-            "@eri_pb1999",
-            "@scoutereb"
-        ),
-        "phone" => array(
-            "(83) 9 9411-7708",
         )
     ),
     array(
@@ -1689,15 +1661,6 @@ $scouters = array(
         )
     ),
     array(
-        "name" => "Nilma Ferreira dos Santos",
-        "instagram" => array(
-            "@arealezasuacacheada"
-        ),
-        "phone" => array(
-            "(98) 9 7015-4943"
-        )
-    ),
-    array(
         "name" => "Vitoria Barbosa Sanguiné",
         "instagram" => array(
             "@vitoriasanguinee"
@@ -3185,15 +3148,6 @@ $scouters = array(
         ),
     ),
     array(
-        "name" => "Gabriel Brito",
-        "instagram" => array(
-            "@gbs_scouter"
-        ),
-        "phone" => array(
-            "(34) 9 9679-1207"
-        ),
-    ),
-    array(
         "name" => "Yasmin Ketelin Carmo dos Santos",
         "instagram" => array(
             "@1_dama"
@@ -3347,15 +3301,6 @@ $scouters = array(
         ),
     ),
     array(
-        "name" => "Isabella Temistocles de Oliveira",
-        "instagram" => array(
-            "@isabellatemistocles"
-        ),
-        "phone" => array(
-            "(35) 9 9102-0136"
-        ),
-    ),
-    array(
         "name" => "Roberta Luiza Souza Lemos",
         "instagram" => array(
             "@rwberta"
@@ -3383,103 +3328,12 @@ $scouters = array(
         ),
     ),
     array(
-        "name" => "Matheus Henrique Antunes Braulio",
-        "instagram" => array(
-            "@matheushenriquescouter"
-        ),
-        "phone" => array(
-            "(19) 9 8132-1400"
-        ),
-    ),
-    array(
-        "name" => "Monique da Silva Nascimento",
-        "instagram" => array(
-            "@monique.scouter"
-        ),
-        "phone" => array(
-            "(11) 9 5134-8355"
-        ),
-    ),
-    array(
-        "name" => "Mônica Pereira da Silva",
-        "instagram" => array(
-            "@monicascouter"
-        ),
-        "phone" => array(
-            "(11) 9 5831-1606"
-        ),
-    ),
-    array(
-        "name" => "Juvenal Bordini Filho",
-        "instagram" => array(
-            "@jb_agentemodels"
-        ),
-        "phone" => array(
-            "(12) 9 8182-9290"
-        ),
-    ),
-    array(
         "name" => "Carolina",
         "instagram" => array(
             "@carolguti.arias"
         ),
         "phone" => array(
             "(19) 9 8339-8878"
-        ),
-    ),
-    array(
-        "name" => "Victoria Ferri",
-        "instagram" => array(
-            "@scouter.victoriaferri_oficial"
-        ),
-        "phone" => array(
-            "(13) 9 8207-1865"
-        ),
-    ),
-    array(
-        "name" => "Núbia sousa de Jesus",
-        "instagram" => array(
-            "@lais1956my",
-            "@nubia_agentemodel"
-        ),
-        "phone" => array(
-            "(21) 9 8232-0269"
-        ),
-    ),
-    array(
-        "name" => "Jaqueline da Silva Santos",
-        "instagram" => array(
-            "@scouter.jaqueline_santos"
-        ),
-        "phone" => array(
-            "(11) 9 5367-1340"
-        ),
-    ),
-    array(
-        "name" => "Ranieli Regina Qudra Dos  Santos",
-        "instagram" => array(
-            "@rannysantos47"
-        ),
-        "phone" => array(
-            "(11) 9 5493-8353"
-        ),
-    ),
-    array(
-        "name" => "Kevin Almeida Cunha",
-        "instagram" => array(
-            "@kevin_._scout"
-        ),
-        "phone" => array(
-            "(11) 9 7473-2646"
-        ),
-    ),
-    array(
-        "name" => "Lídia Bessa Batista Nunes",
-        "instagram" => array(
-            "@lidibessaagente"
-        ),
-        "phone" => array(
-            "(92) 9 8348-3463"
         ),
     ),
     array(
@@ -3610,15 +3464,6 @@ $scouters = array(
         ),
     ),
     array(
-        "name" => "Agatha Persinotti Martini Mangas Catarino",
-        "instagram" => array(
-            "@agatha.scouter"
-        ),
-        "phone" => array(
-            "(13) 9 9133-2855"
-        ),
-    ),
-    array(
         "name" => "Eduardo Hebert Ramos dos Santos",
         "instagram" => array(
             "@eddy_alpha"
@@ -3634,15 +3479,6 @@ $scouters = array(
         ),
         "phone" => array(
             "(43) 9 8826-9202"
-        ),
-    ),
-    array(
-        "name" => "Marta da Silva Lima Soares",
-        "instagram" => array(
-            "@mart.a4498"
-        ),
-        "phone" => array(
-            "(19) 9 8943-9200"
         ),
     ),
     array(
@@ -3670,24 +3506,6 @@ $scouters = array(
         ),
         "phone" => array(
             "(62) 9 8298-5137"
-        ),
-    ),
-    array(
-        "name" => "Antônia Adriana Valentim de Sousa",
-        "instagram" => array(
-            "@Adriana_scouter3"
-        ),
-        "phone" => array(
-            "(11) 9 7072-7106"
-        ),
-    ),
-    array(
-        "name" => "Beatriz Ribeiro Martins",
-        "instagram" => array(
-            "@Bia_de_konoha"
-        ),
-        "phone" => array(
-            "(11) 9 8870-6134"
         ),
     ),
     array(
@@ -3729,15 +3547,6 @@ $scouters = array(
         ),
     ),
     array(
-        "name" => "Julia Herta Rodrigues Hahne",
-        "instagram" => array(
-            "@juliaherta__"
-        ),
-        "phone" => array(
-            "(35) 9 9188-5801"
-        ),
-    ),
-    array(
         "name" => "Brisa Carolina de Oliveira Morais",
         "instagram" => array(
             "@brisamoraes"
@@ -3774,15 +3583,6 @@ $scouters = array(
         ),
     ),
     array(
-        "name" => "Lidiane dos Santos Leandro",
-        "instagram" => array(
-            "@lidiane_bell"
-        ),
-        "phone" => array(
-            "(43) 9 9930-7270"
-        ),
-    ),
-    array(
         "name" => "Francisco Lopes Ferreira",
         "instagram" => array(
             "@francisco_scouter"
@@ -3801,15 +3601,6 @@ $scouters = array(
         ),
     ),
     array(
-        "name" => "Sara de Matos Pires",
-        "instagram" => array(
-            "@saramattos2010"
-        ),
-        "phone" => array(
-            "(55) 9 993-30674"
-        ),
-    ),
-    array(
         "name" => "Hanna Jennifer Sousa Nogueira",
         "instagram" => array(
             "@jennysousa_gomes"
@@ -3825,15 +3616,6 @@ $scouters = array(
         ),
         "phone" => array(
             "(73) 9 9134-6800"
-        ),
-    ),
-    array(
-        "name" => "Kelvin Rafael de Moura",
-        "instagram" => array(
-            "@kelvinsuedy007"
-        ),
-        "phone" => array(
-            "(62) 9 9367-1805"
         ),
     ),
     array(
@@ -3861,6 +3643,318 @@ $scouters = array(
         ),
         "phone" => array(
             "(87) 9 955-9209"
+        ),
+    ),
+    array(
+        "name" => "Marina Seixas de Castro Oliveira",
+        "instagram" => array(
+            "@ninaseixas_makeup"
+        ),
+        "phone" => array(
+            "(11) 9 3940-3945"
+        ),
+    ),
+    array(
+        "name" => "Andressa dos Santos Silva",
+        "instagram" => array(
+            "@santosandressa0"
+        ),
+        "phone" => array(
+            "(24) 9 8187-0250"
+        ),
+    ),
+    array(
+        "name" => "Gabryella Barbosa Silva",
+        "instagram" => array(
+            "@gabryella.barbosa1997"
+        ),
+        "phone" => array(
+            "(11) 9 9692-9893"
+        ),
+    ),
+    array(
+        "name" => "Wesley Ferreira",
+        "instagram" => array(
+            "@wesl.eyft"
+        ),
+        "phone" => array(
+            "(17) 9 8820-7015"
+        ),
+    ),
+    array(
+        "name" => "Wesley Ferreira",
+        "instagram" => array(
+            "@wesl.eyft"
+        ),
+        "phone" => array(
+            "(17) 9 8820-7015"
+        ),
+    ),
+    array(
+        "name" => "Milena Sava Kinauber",
+        "instagram" => array(
+            "@milena.scouter1"
+        ),
+        "phone" => array(
+            "(41) 9 9979-4579"
+        ),
+    ),
+    array(
+        "name" => "Marta Bispo Santos",
+        "instagram" => array(
+            "@Scouter.marta_",
+            "@_scoutermartaa _",
+            "@meu._mbs",
+            "@mmarthabsscouter",
+            "@b_._s.m",
+            "@b.s.marty",
+            "@martynna.b_",
+            "@martyy24",
+            "@marta.b_ _",
+            "@martascouterart1",
+            "@martascouterart2",
+            "@martascouterart3",
+            "@senhoritamarta.Scouter",
+            "@martina.scouterr",
+            "@mmartha_scouter",
+        ),
+        "phone" => array(
+            "(77) 9 9864-7304"
+        ),
+    ),
+    array(
+        "name" => "Paloma Sales Martins",
+        "instagram" => array(
+            "@paloma_ssales"
+        ),
+        "phone" => array(
+            "(11) 9 9893-0458"
+        ),
+    ),
+    array(
+        "name" => "Raissa pereira dos Santos",
+        "instagram" => array(
+            "@RaissaMk"
+        ),
+        "phone" => array(
+            "(31) 9 9535-1006"
+        ),
+    ),
+    array(
+        "name" => "Bruna Cavalheiro",
+        "instagram" => array(
+            "@Brunna__cavalheiro"
+        ),
+        "phone" => array(
+            "(49) 9 9980-62705"
+        ),
+    ),
+    array(
+        "name" => "Ana Cláudia Bento de Faria",
+        "instagram" => array(
+            "@anafariabf"
+        ),
+        "phone" => array(
+            "(11) 9 6973-0996"
+        ),
+    ),
+    array(
+        "name" => "Diulia Franciele Lemes Corrêa",
+        "instagram" => array(
+            "@diuliafcorrea"
+        ),
+        "phone" => array(
+            "(51) 9 9855-6482"
+        ),
+    ),
+    array(
+        "name" => "Sandy Lira",
+        "instagram" => array(
+            "@Sandylira_"
+        ),
+        "phone" => array(
+            "(11) 9 6688-4298"
+        ),
+    ),
+    array(
+        "name" => "Amanda da Silva Martins",
+        "instagram" => array(
+            "@amandha1654"
+        ),
+        "phone" => array(
+            "(32) 9 9999-4420"
+        ),
+    ),
+    array(
+        "name" => "Amanda da Silva Queiroz",
+        "instagram" => array(
+            "@amandaqueirozof"
+        ),
+        "phone" => array(
+            "(21) 9-9406-0794"
+        ),
+    ),
+    array(
+        "name" => "Pamella Rwany Batista Ribeiro do Vale",
+        "instagram" => array(
+            "@pamellarwany"
+        ),
+        "phone" => array(
+            "(32) 9 9825-8550"
+        ),
+    ),
+    array(
+        "name" => "Paloma Camila Pereira da Silva",
+        "instagram" => array(
+            "@camilasilva"
+        ),
+        "phone" => array(
+            "(37) 9 9996-2753"
+        ),
+    ),
+    array(
+        "name" => "Wederson Henrique Novo Silva",
+        "instagram" => array(
+            "@wed.Siilva"
+        ),
+        "phone" => array(
+            "(53) 9 9190-5796"
+        ),
+    ),
+    array(
+        "name" => "Letícia Alves do Carmo Garcia",
+        "instagram" => array(
+            "@agente_leticiacarmo"
+        ),
+        "phone" => array(
+            "(17) 99975-5540"
+        ),
+    ),
+    array(
+        "name" => "Mayanne Correa Guimarães Coêlho",
+        "instagram" => array(
+            "@euladymaya2"
+        ),
+        "phone" => array(
+            "(95) 9 9177-7466"
+        ),
+    ),
+    array(
+        "name" => "Samara Alves",
+        "instagram" => array(
+            "@mara_xtt"
+        ),
+        "phone" => array(
+            "+1 (425) 864-3110"
+        ),
+    ),
+    array(
+        "name" => "Melissa Carvalho de Araújo",
+        "instagram" => array(
+            "@mel_araujo98"
+        ),
+        "phone" => array(
+            "(11) 9 7373-7179"
+        ),
+    ),
+    array(
+        "name" => "Júlia Amarante Pereira",
+        "instagram" => array(
+            "@ju.ap2407"
+        ),
+        "phone" => array(
+            "(22) 9 9900-6588"
+        ),
+    ),
+    array(
+        "name" => "Thais Inocêncio Nogueira",
+        "instagram" => array(
+            "@_thaa1s"
+        ),
+        "phone" => array(
+            "(15) 9 9676-2961"
+        ),
+    ),
+    array(
+        "name" => "Larissa Ribeiro Pereira",
+        "instagram" => array(
+            "@lari.ribeiroz"
+        ),
+        "phone" => array(
+            "(11) 9 1332-4979"
+        ),
+    ),
+    array(
+        "name" => "Nicole Fernanda Neis",
+        "instagram" => array(
+            "@neisnicole32"
+        ),
+        "phone" => array(
+            "(51) 9 9630-6875",
+            "(35) 9 9924-1072"
+        ),
+    ),
+    array(
+        "name" => "Cristhiane Sandim de Arruda",
+        "instagram" => array(
+            "@a_mae_explica"
+        ),
+        "phone" => array(
+            "(67) 9 9246-7715"
+        ),
+    ),
+    array(
+        "name" => "Jassiara Campos Damião",
+        "instagram" => array(
+            "@Jassy_campos"
+        ),
+        "phone" => array(
+            "(22) 9 8172-3362"
+        ),
+    ),
+    array(
+        "name" => "Andressa Soares dos Santos",
+        "instagram" => array(
+            "@Andressasantos27_"
+        ),
+        "phone" => array(
+            "(38) 9 8861-5179"
+        ),
+    ),
+    array(
+        "name" => "Cristhiane Lopes",
+        "instagram" => array(
+            "@cristhianel"
+        ),
+        "phone" => array(
+            "(51) 9 9580-2731"
+        ),
+    ),
+    array(
+        "name" => "Janaina Aparecida Azzi Felix",
+        "instagram" => array(
+            "@janaina.feliix"
+        ),
+        "phone" => array(
+            "(17) 9 9652-0557"
+        ),
+    ),
+    array(
+        "name" => "Suelen da Silva Donato",
+        "instagram" => array(
+            "@Suelen.scouter"
+        ),
+        "phone" => array(
+            "(77) 9 8164-9443"
+        ),
+    ),
+    array(
+        "name" => "Leonora Delfina Chicapué",
+        "instagram" => array(
+            "@Kimberly2k10"
+        ),
+        "phone" => array(
+            "921 472 479"
         ),
     ),
 );

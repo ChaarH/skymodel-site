@@ -374,45 +374,6 @@
             <!-- ***** Section Title End ***** -->
 
             <div class="row d-flex justify-content-center">
-                <!-- ***** Team Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <div class="div-leader-avatar">
-                                <div class="leader-avatar">
-                                    <img src="assets/images/avatars/carlos.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="d-flex justify-content-center">
-                                <p><a href="https://instagram.com/carlos.developer" target="_blank">@carlos.developer</a></p>
-                            </div>
-                            <div class="team-info">
-                                <h3 class="user-name">Carlos Henrique</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Team Item End ***** -->
-
-                <!-- ***** Team Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="team-item">
-                        <div class="team-content">
-                            <div class="div-leader-avatar">
-                                <div class="leader-avatar">
-                                    <img src="assets/images/avatars/daiverson.jpeg" alt="">
-                                </div>
-                            </div>
-                            <div class="d-flex justify-content-center">
-                                <p><a href="https://instagram.com/daiverson_pereira" target="_blank">@daiverson_pereira</a></p>
-                            </div>
-                            <div class="team-info">
-                                <h3 class="user-name">Daiverson Pereira</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Team Item End ***** -->
 
                 <!-- ***** Team Item Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
@@ -428,6 +389,26 @@
                             </div>
                             <div class="team-info">
                                 <h3 class="user-name">Helder Carvalho</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Team Item End ***** -->
+
+                <!-- ***** Team Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <div class="div-leader-avatar">
+                                <div class="leader-avatar">
+                                    <img src="assets/images/avatars/leticia_felix.png" alt="">
+                                </div>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <p><a href="https://instagram.com/_leticia.felix" target="_blank">@_leticia.felix</a></p>
+                            </div>
+                            <div class="team-info">
+                                <h3 class="user-name">Letícia Félix</h3>
                             </div>
                         </div>
                     </div>
